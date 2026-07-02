@@ -24,13 +24,13 @@ export default function Projects() {
     {
       title: "Security Phish - Detección de Pesca Ilegal",
       description: "Plataforma que detecta, monitorea y alerta actividades sospechosas de pesca ilegal usando datos de ubicación y análisis de comportamiento. Sistema con alertas en tiempo real y dashboard de monitoreo.",
-      technologies: ["Vue.js", "Node.js", "PostgreSQL", "Geolocation API", "Alertas"],
+      technologies: ["Vue.js", "Node.js", "MongoDBPostgreSQL", "Geolocation API", "Alertas"],
       images: ["/projects/phish/phish1.jpg", "/projects/phish/phish2.jpg", "/projects/phish/phish3.jpg"]
     },
     {
       title: "Sistema de Recursos Humanos",
       description: "Sistema completo de gestión de recursos humanos desarrollado con Vue.js. Incluye módulos de gestión de empleados, control de asistencia, nómina, evaluaciones de desempeño y reportes administrativos.",
-      technologies: ["Vue.js", "Node.js", "Express", "MongoDB", "JWT"],
+      technologies: ["Vue.js", "Node.js", "Express", "PostgreSQL", "JWT"],
       images: ["/projects/rrhh/rrhh1.jpg", "/projects/rrhh/rrhh2.jpg", "/projects/rrhh/rrhh3.jpg"]
     },
     {
