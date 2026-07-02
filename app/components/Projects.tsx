@@ -24,7 +24,7 @@ export default function Projects() {
     {
       title: "Security Phish - Detección de Pesca Ilegal",
       description: "Plataforma que detecta, monitorea y alerta actividades sospechosas de pesca ilegal usando datos de ubicación y análisis de comportamiento. Sistema con alertas en tiempo real y dashboard de monitoreo.",
-      technologies: ["Vue.js", "Node.js", "MongoDBPostgreSQL", "Geolocation API", "Alertas"],
+      technologies: ["Vue.js", "Node.js", "MongoDB", "Geolocation API", "Alertas"],
       images: ["/projects/phish/phish1.jpg", "/projects/phish/phish2.jpg", "/projects/phish/phish3.jpg"]
     },
     {
